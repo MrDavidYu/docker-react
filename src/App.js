@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          bing bing bang feature branch
+          Learn React bap pab bap bopbop
         </a>
       </header>
     </div>
